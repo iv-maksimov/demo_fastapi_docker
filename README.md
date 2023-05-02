@@ -1,4 +1,4 @@
-# Демо пороект по fastapi и docker
+# Демо проект по fastapi и docker
 
 ### Start app for dev
 
